@@ -1,0 +1,6 @@
+.vs/
+TicketMaster/TicketMaster.csproj.user
+TicketMaster/bin/
+TicketMaster/obj/
+*.pubxml
+*.user
